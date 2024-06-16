@@ -6,6 +6,8 @@
 
 ```
 export PROJECT_ID_2=
+```
+```
 export REGION=
 ```
 ```
